@@ -14,7 +14,7 @@ Data is stored on a secure server.
 Automatically deleted after 90 days of inactivity.
 4. How can I delete my data?
 Send the command /delete_me in the bot.
-Or contact @YourTelegramUsername.
+Or contact @a1ras.
 5. Contact Information
 For privacy concerns, contact @a1ras.
 
@@ -34,6 +34,6 @@ Telegram ID (для работы бота).
 Удаляются автоматически через 90 дней неактивности.
 4. Как удалить данные?
 Отправьте команду /delete_me в боте.
-Или напишите @ТвойTelegram.
+Или напишите @a1ras.
 5. Контакты
 По вопросам конфиденциальности: @a1ras.
